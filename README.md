@@ -15,4 +15,3 @@ sudo apt install g++ libsfml-dev fonts-dejavu-core
 g++ -std=c++17 main.cpp -o npc_chase \
     -lsfml-graphics -lsfml-window -lsfml-system
 ./npc_chase
-<img width="649" height="709" alt="github" src="https://github.com/user-attachments/assets/73c00eb2-f514-4a11-b775-19b03ed763fb" />
