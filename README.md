@@ -15,3 +15,4 @@ sudo apt install g++ libsfml-dev fonts-dejavu-core
 g++ -std=c++17 main.cpp -o npc_chase \
     -lsfml-graphics -lsfml-window -lsfml-system
 ./npc_chase
+![Game Screenshot](github.png)
