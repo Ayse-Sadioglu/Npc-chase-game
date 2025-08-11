@@ -3,6 +3,9 @@
 A **C++** project where the player moves in a grid while an **NPC with chase AI** follows.  
 The enemy uses an axis-priority pathing algorithm to move closer each turn.  
 When caught, a **Game Over** screen with **Retry** option is shown.
+
+
+
 <img src="github.png" alt="Game Screenshot" width="50%">
 
 ## Controls
