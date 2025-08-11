@@ -12,7 +12,6 @@ When caught, a **Game Over** screen with **Retry** option is shown.
 - **W / A / S / D** → Move player  
 - **Q** → Quit game  
 - **R** / **Enter** / **Mouse Click** → Retry after Game Over
-- 
 ## Build & Run
 ```bash
 sudo apt install g++ libsfml-dev fonts-dejavu-core
